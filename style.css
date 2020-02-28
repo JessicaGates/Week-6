@@ -31,6 +31,7 @@ footer {
   background-size: contain;
   background-position: bottom;
   border-bottom: 10px solid green;
+  text-align:right;
 }
 h1 {
   background-image: url(images/logo.png);
