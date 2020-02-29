@@ -47,4 +47,7 @@ h1 {
   padding: 60px 0 0 0;
   width: 128px;
   height: 128px;
+  background-color: #000000;
+  border-radius: 50%
+  box-shadow: 0 0 3px #A9A9A9;
 }
